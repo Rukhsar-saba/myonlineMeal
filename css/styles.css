@@ -129,16 +129,16 @@ html {
 }
 /* --------testimonial-------- */
 .testimonial {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 .testimonial .row {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  padding: 2em 5rem;
+  padding: 1em 5rem;
 }
 .testimonial .col-3 {
-  margin: 2em 2em;
+  margin: 1em 2em;
   text-align: center;
   padding: 40px 20px;
   box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.3);
